@@ -3,7 +3,7 @@ package org.launchcode.java.demos.lsn1datatypes;
 import java.util.Scanner;
 
 public class TempConverter {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         double fahrenheit;
         double celsius;
         Scanner input;
