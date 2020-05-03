@@ -1,4 +1,4 @@
-package studios;
+package org.launchcode.java.studios.countingcharacters;
 
 import java.util.HashMap;
 import java.util.Map;

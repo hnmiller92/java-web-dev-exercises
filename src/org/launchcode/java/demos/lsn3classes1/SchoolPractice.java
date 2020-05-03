@@ -6,6 +6,5 @@ public class SchoolPractice {
         Student hannah = new Student("Hannah", 1, 1, 4.0);
         Student emerald = new Student("Emerald",2, 1, 4.0);
 
-
     }
 }
